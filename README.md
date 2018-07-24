@@ -14,11 +14,17 @@
 
 [css 属性触发 Layout/Paint/Composite 备查](https://csstriggers.com)
 
+[Resource Timing practical tips](https://www.stevesouders.com/blog/2014/08/21/resource-timing-practical-tips/)
+
 ## html 相关
 
 [HEAD](https://github.com/joshbuchea/HEAD)
 
 ## 移动端
+
+### hybrid
+
+- [Hybrid App 技术解析 -- 原理篇](https://mp.weixin.qq.com/s/chLtMJ8YJFUNHxtCy0b3UQ)
 
 [移动端锦集 mobileTech](https://github.com/jtyjty99999/mobileTech)
 
@@ -29,3 +35,5 @@
 [有赞](https://github.com/youzan/zanui-weapp)
 
 [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+
+[航旅无线前端团队必备技能](https://github.com/jayli/jayli.github.com/issues/16)
