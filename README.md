@@ -16,9 +16,19 @@
 
 [Resource Timing practical tips](https://www.stevesouders.com/blog/2014/08/21/resource-timing-practical-tips/)
 
-## html 相关
+[resourcetiming-in-practice](https://nicj.net/resourcetiming-in-practice/)
+
+## HTML
 
 [HEAD](https://github.com/joshbuchea/HEAD)
+
+## CSS
+
+[do-you-really-understand-css-linear-gradients](https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf)
+
+[条纹背景, 平行四边形/梯形, 阴影](https://mp.weixin.qq.com/s/Ne-eT1QLhaZdB2MIzxcb8g)
+
+[css-tricks](https://css-tricks.com/)
 
 ## 移动端
 
