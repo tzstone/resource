@@ -58,6 +58,8 @@
 
 [航旅无线前端团队必备技能](https://github.com/jayli/jayli.github.com/issues/16)
 
+[Steve Souders](https://www.stevesouders.com/blog/)
+
 [.ds laboratory](http://dmitrysoshnikov.com/)
 
 [ponyfoo](https://ponyfoo.com/articles)
