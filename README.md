@@ -4,9 +4,15 @@
 
 [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
+[You-Dont-Know-JS(中文版)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
+
 [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
+[Annotated ECMAScript 5.1](http://es5.github.io/)
+
 [es5 中文版](http://yanhaijing.com/es5/#about)
+
+[ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/#sec-for-statement-runtime-semantics-labelledevaluation)
 
 ## 浏览器渲染/性能
 
@@ -30,6 +36,10 @@
 
 [css-tricks](https://css-tricks.com/)
 
+## HTTP/HTTPS
+
+[HTTP 常用对照表](http://tool.oschina.net/commons)
+
 ## 移动端
 
 ### hybrid
@@ -47,3 +57,9 @@
 [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
 
 [航旅无线前端团队必备技能](https://github.com/jayli/jayli.github.com/issues/16)
+
+[.ds laboratory](http://dmitrysoshnikov.com/)
+
+[ponyfoo](https://ponyfoo.com/articles)
+
+[Veda 原型](http://www.nowamagic.net/librarys/veda/)
