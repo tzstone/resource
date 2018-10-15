@@ -24,6 +24,12 @@
 
 [resourcetiming-in-practice](https://nicj.net/resourcetiming-in-practice/)
 
+[现代浏览器内部揭秘（第一部分）](https://github.com/xitu/gold-miner/blob/master/TODO1/inside-look-at-modern-web-browser-part1.md)
+
+[现代浏览器内部揭秘（第二部分）](https://github.com/xitu/gold-miner/blob/master/TODO1/inside-browser-part2.md)
+
+[现代浏览器内部揭秘（第三部分）](https://github.com/xitu/gold-miner/blob/master/TODO1/inside-browser-part3.md)
+
 ## HTML
 
 [HEAD](https://github.com/joshbuchea/HEAD)
