@@ -54,6 +54,10 @@
 
 [node 源码详解系列](https://cnodejs.org/topic/56e3be21f5d830306e2f0fd3)
 
+## 工具
+
+[webpack 之 loader 和 plugin 简介](https://juejin.im/post/5980752ef265da3e2e56e82e)
+
 ## HTTP/HTTPS
 
 [HTTP 常用对照表](http://tool.oschina.net/commons)
