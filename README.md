@@ -42,6 +42,8 @@
 
 [css-tricks](https://css-tricks.com/)
 
+[CSS Trigger](https://csstriggers.com/)
+
 ## JS
 
 [browserhacks](http://browserhacks.com)
@@ -57,6 +59,8 @@
 ## 工具
 
 [webpack 之 loader 和 plugin 简介](https://juejin.im/post/5980752ef265da3e2e56e82e)
+
+[git book](https://git-scm.com/book/zh/v2)
 
 ## HTTP/HTTPS
 
