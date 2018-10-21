@@ -30,6 +30,10 @@
 
 [现代浏览器内部揭秘（第三部分）](https://github.com/xitu/gold-miner/blob/master/TODO1/inside-browser-part3.md)
 
+[REFLOWS & REPAINTS: CSS PERFORMANCE MAKING YOUR JAVASCRIPT SLOW?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/)
+
+[An Introduction to Hardware Acceleration with CSS Animations](https://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/)
+
 ## HTML
 
 [HEAD](https://github.com/joshbuchea/HEAD)
